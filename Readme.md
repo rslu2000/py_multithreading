@@ -17,5 +17,5 @@ thread.start() <br/></p>
 4. test4.py using multiprocessing to do 2 sub-processes call for sha256 calulation
 5. test5.py using regular function call to do 2 times sha256 calulation
 6. You can comapre the execution time between test4.py and test5.py, then you will find the efficency in multiprocessing.
-7. test6.py using multithreading to do 2 sub-threading call for sha256 calculation
+7. test6.py using multithreading to do 2 sub-threading call for sha256 calculation, you can find that multithreading cannot save time in cpu-consuming task.
 </body></html>
