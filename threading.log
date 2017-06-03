@@ -1,0 +1,25 @@
+2017-06-02 22:48:01,118-Mike-DEBUG-Doubler function executing
+2017-06-02 22:48:01,119-Mike-DEBUG-Double function ended with:0
+2017-06-02 22:48:01,122-George-DEBUG-Doubler function executing
+2017-06-02 22:48:01,124-George-DEBUG-Double function ended with:2
+2017-06-02 22:48:01,126-Wanda-DEBUG-Doubler function executing
+2017-06-02 22:48:01,127-Nina-DEBUG-Doubler function executing
+2017-06-02 22:48:01,128-Wanda-DEBUG-Double function ended with:4
+2017-06-02 22:48:01,129-Nina-DEBUG-Double function ended with:6
+2017-06-02 22:48:01,131-Tracy-DEBUG-Doubler function executing
+2017-06-02 22:48:01,133-Tracy-DEBUG-Double function ended with:8
+2017-06-03 08:57:01,804-Mike-DEBUG-Calling doubler
+2017-06-03 08:57:01,809-Mike-DEBUG-Doubler function executing
+2017-06-03 08:57:01,811-Mike-DEBUG-Double function ended with:0
+2017-06-03 08:57:03,273-George-DEBUG-Calling doubler
+2017-06-03 08:57:03,276-George-DEBUG-Doubler function executing
+2017-06-03 08:57:03,277-George-DEBUG-Double function ended with:2
+2017-06-03 08:57:04,858-Wanda-DEBUG-Calling doubler
+2017-06-03 08:57:04,860-Wanda-DEBUG-Doubler function executing
+2017-06-03 08:57:04,861-Wanda-DEBUG-Double function ended with:4
+2017-06-03 08:57:05,877-Nina-DEBUG-Calling doubler
+2017-06-03 08:57:05,881-Nina-DEBUG-Doubler function executing
+2017-06-03 08:57:05,882-Nina-DEBUG-Double function ended with:6
+2017-06-03 08:57:07,037-Tracy-DEBUG-Calling doubler
+2017-06-03 08:57:07,039-Tracy-DEBUG-Doubler function executing
+2017-06-03 08:57:07,041-Tracy-DEBUG-Double function ended with:8
