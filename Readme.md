@@ -3,7 +3,7 @@
 2. test2.py using "import threading" and the statements like "my_thread = threading.Thread(target=doubler, args=(i,))" and "my_thread.start()".
 
 3. test3.py using "import threading" and inherit the parent class "threading.Tread" then using the following statements as the followings:
-
+<p>
 class MyThread(threading.Thread):
      def __init__(self, arg1, arg2):
             threading.Thread.__init__(self)
@@ -13,4 +13,4 @@ class MyThread(threading.Thread):
       doubler(self.number, self.logger)
  
 thread = MyThread (number, logger)
-thread.start()
+thread.start() </p>
