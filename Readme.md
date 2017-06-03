@@ -5,13 +5,13 @@
 3. test3.py using "import threading" and inherit the parent class "threading.Tread" then using the following statements as the followings:
 <html><body><p>
 class MyThread(threading.Thread):<br/>
-     def __init__(self, arg1, arg2):
-            threading.Thread.__init__(self)
-            self.number = arg1
-            self.logger= arg2
-      def run (self)
-      doubler(self.number, self.logger)
+     def __init__(self, arg1, arg2):<br/>
+            threading.Thread.__init__(self)<br/>
+            self.number = arg1<br/>
+            self.logger= arg2<br/>
+      def run (self)<br/>
+      doubler(self.number, self.logger)<br/>
  
-thread = MyThread (number, logger)
-thread.start() </p>
+thread = MyThread (number, logger)<br/>
+thread.start() <br/></p>
 </body></html>
