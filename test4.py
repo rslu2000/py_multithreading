@@ -5,7 +5,7 @@ import hashlib
 
 def job(a):
     s=a
-    for i in range(500000):
+    for i in range(2500000):
         s=hashlib.sha256(s).hexdigest()
     print (s)
         
