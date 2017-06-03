@@ -4,7 +4,7 @@
 
 3. test3.py using "import threading" and inherit the parent class "threading.Tread" then using the following statements as the followings:
 <html><body><p>
-class MyThread(threading.Thread):
+class MyThread(threading.Thread):<br/>
      def __init__(self, arg1, arg2):
             threading.Thread.__init__(self)
             self.number = arg1
