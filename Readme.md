@@ -20,6 +20,6 @@ thread.start() <br/></p>
 7. test6.py using multithreading to do 2 sub-threading call for sha256 calculation, you can find that multithreading cannot save time in cpu-consuming task.<br/>
 <img src="https://github.com/rslu2000/py_multithreading/blob/master/profile2.png">
 
-<img src="https://github.com/rslu2000/py_multithreading/blob/master/profile.png"><br/>
+<img src="https://github.com/rslu2000/py_multithreading/blob/master/profile.png" width=300><br/>
 
 </body></html>
